@@ -1,12 +1,24 @@
-# Harsh Sharnagat
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Open+for+AI+%26+Backend+Internships" />
+<table>
+<tr>
+<td width="65%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=700&lines=Harsh+Sharnagat;Cybersecurity+Student;Open+for+AI+%26+Backend+Internships" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
