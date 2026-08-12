@@ -10,19 +10,6 @@
 
 <br>
 
-### `> SYSTEM ACCESS GRANTED_`
-
-<img src="https://img.shields.io/badge/Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/AI-00FF41?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/Backend-00FF41?style=for-the-badge&logo=node.js&logoColor=black"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
-
-</div>
-
----
 
 ## 🕶️ `WHOAMI`
 
