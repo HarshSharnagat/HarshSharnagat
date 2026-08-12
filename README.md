@@ -1,26 +1,6 @@
-<div align="center">
+# 🖼️ Harsh Sharnagat
 
-<table>
-<tr>
-<td width="65%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=700&lines=Harsh+Sharnagat;Cybersecurity+Student;Open+for+AI+%26+Backend+Internships" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
-
-</div>
+![Harsh Sharnagat](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=900&lines=Harsh+Sharnagat;Cybersecurity+Student;AI+%26+Backend+Developer)
 
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
