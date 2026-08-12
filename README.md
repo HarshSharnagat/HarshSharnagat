@@ -1,3 +1,11 @@
+<div align="center">
+
+# ⚡ HARSH SHARNAGAT ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:003300&height=200&section=header&text=HARSH%20SHARNAGAT&fontSize=45&fontColor=00ff41&fontAlignY=40&desc=CODE%20%7C%20CYBERSECURITY%20%7C%20AI%20%7C%20DEVELOPER&descAlignY=65&descSize=16&animation=twinkling" width="100%"/>
+
+</div>
+
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
 
