@@ -1,16 +1,21 @@
 <div align="center">
 
 <!-- Hacker Avatar -->
-<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=120&auto=format&fit=crop" alt="Hacker Avatar" width="100" style="border-radius: 50%;" />
+<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=120&auto=format&fit=crop" width="100" style="border-radius: 50%;" alt="Hacker Profile Picture">
 
-# Harsh Sharnagat 👋
+# 👨‍💻 Harsh Sharnagat
 
-<!-- Animated Typing Introduction -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=435&lines=Cyber+Security+Student+%F0%9F%94%90;Learning+Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Cyber+Security+Student+%F0%9F%94%90;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+profile!" alt="Typing SVG" />
+</a>
 
 </div>
+
 # 💫 About Me:
-I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
+I'm currently working on projects 
+I'm currently learning DSA
+Ask me about Cyber Security 
 
 
 ## 🌐 Socials:
