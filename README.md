@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:000000,50:001a00,100:00ff41&text=HARSH%20SHARNAGAT&fontColor=00ff41&fontSize=45&fontAlignY=45&desc=%3E%20CODE%20%7C%20BREAK%20%7C%20LEARN%20%7C%20REPEAT_%20%3C&descSize=16&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=HARSH%20SHARNAGAT&fontColor=00FF41&fontSize=48&fontAlignY=40&desc=%3E%20ACCESS%20GRANTED_%20%7C%20DEVELOPER%20%7C%20CYBER%20%7C%20AI&descColor=00FF41&descSize=15&descAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
 # 💫 About Me:
