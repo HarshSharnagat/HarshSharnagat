@@ -1,29 +1,4 @@
-# 🕶️ Harsh Sharnagat
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Harsh+Sharnagat;Cybersecurity+Student+%F0%9F%94%90;Future+Cyber+Security+Engineer;AI+%7C+Backend+%7C+Cybersecurity;Exploring+the+Digital+World..." />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header"/>
-
-<br>
-
-
-## 🕶️ `WHOAMI`
-
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   👨‍💻  Harsh Sharnagat                      │
-│                                              │
-│   > Cybersecurity Student                    │
-│   > AI & Backend Enthusiast                  │
-│   > Learning • Building • Breaking           │
-│   > Future Security Engineer                 │
-│                                              │
-└──────────────────────────────────────────────┘
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
 
