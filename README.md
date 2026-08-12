@@ -1,8 +1,42 @@
+# 🕶️ Harsh Sharnagat
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=HARSH%20SHARNAGAT&fontColor=00FF41&fontSize=48&fontAlignY=40&desc=%3E%20ACCESS%20GRANTED_%20%7C%20DEVELOPER%20%7C%20CYBER%20%7C%20AI&descColor=00FF41&descSize=15&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Harsh+Sharnagat;Cybersecurity+Student+%F0%9F%94%90;Future+Cyber+Security+Engineer;AI+%7C+Backend+%7C+Cybersecurity;Exploring+the+Digital+World..." />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header"/>
+
+<br>
+
+### `> SYSTEM ACCESS GRANTED_`
+
+<img src="https://img.shields.io/badge/Cybersecurity-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI-00FF41?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Backend-00FF41?style=for-the-badge&logo=node.js&logoColor=black"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
 
 </div>
+
+---
+
+## 🕶️ `WHOAMI`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   👨‍💻  Harsh Sharnagat                      │
+│                                              │
+│   > Cybersecurity Student                    │
+│   > AI & Backend Enthusiast                  │
+│   > Learning • Building • Breaking           │
+│   > Future Security Engineer                 │
+│                                              │
+└──────────────────────────────────────────────┘
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
 
