@@ -1,25 +1,14 @@
 <div align="center">
 
-<table>
-<tr>
-<td valign="middle">
+<!-- Hacker Avatar -->
+<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=120&auto=format&fit=crop" alt="Hacker Avatar" width="100" style="border-radius: 50%;" />
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="90"/>
+# Harsh Sharnagat 👋
 
-</td>
-
-<td valign="middle">
-
-# Harsh Sharnagat
-
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&color=25B7C4&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;AI+%26+Backend+Developer;Future+Cybersecurity+Engineer;Open+for+AI+%26+Backend+Internships"/>
+<!-- Animated Typing Introduction -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=435&lines=Cyber+Security+Student+%F0%9F%94%90;Learning+Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 </div>
-
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
 
