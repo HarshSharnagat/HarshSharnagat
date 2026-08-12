@@ -1,3 +1,14 @@
+# Harsh Sharnagat
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Open+for+AI+%26+Backend+Internships" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
+
+</div>
 
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
