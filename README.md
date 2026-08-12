@@ -1,4 +1,18 @@
-https://github.com/harsh5ingh#-harsh-sharnagat
+# 🧑‍💻 Harsh Sharnagat
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2500&pause=1000&color=25B7C4&center=true&vCenter=true&width=600&lines=Cyber;Open+for+AI" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harsh5ingh&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge"/>
+
+</div>
+
+---
 
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
