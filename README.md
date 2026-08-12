@@ -60,7 +60,6 @@ Building scalable AI systems, agent workflows & backend architectures ⚡
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshSharnagat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
