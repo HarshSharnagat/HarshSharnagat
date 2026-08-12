@@ -1,16 +1,4 @@
-<div align="center">
 
-<!-- Hacker Avatar -->
-<img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=120&auto=format&fit=crop" width="100" style="border-radius: 50%;" alt="Hacker Profile Picture">
-
-# 👨‍💻 Harsh Sharnagat
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Cyber+Security+Student+%F0%9F%94%90;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+profile!" alt="Typing SVG" />
-</a>
-
-</div>
 
 # 💫 About Me:
 I'm currently working on projects 
