@@ -1,6 +1,4 @@
-# 🖼️ Harsh Sharnagat
-
-![Harsh Sharnagat](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1800&pause=700&color=25B7C4&center=true&vCenter=true&width=900&lines=Harsh+Sharnagat;Cybersecurity+Student;AI+%26+Backend+Developer)
+https://github.com/harsh5ingh#-harsh-sharnagat
 
 # 💫 About Me:
 I'm currently working on projects <br>I'm currently learning DSA<br>Ask me about Cyber Security <br>
