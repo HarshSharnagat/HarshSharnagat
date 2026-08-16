@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm currently working on projects 
-
 I'm currently learning DSA
-
 Ask me about Cyber Security 
 
 ## 🌐 Socials:
